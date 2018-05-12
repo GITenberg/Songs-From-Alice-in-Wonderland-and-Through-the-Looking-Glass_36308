@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7
     wikipedia: https://en.wikipedia.org/wiki/Lewis_Carroll
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36308#Songs-From-Alice-in-Wonderland-and-Through-the-Looking-Glass
 gutenberg_issued: '2011-06-02'
 gutenberg_type: Text
 identifiers:
