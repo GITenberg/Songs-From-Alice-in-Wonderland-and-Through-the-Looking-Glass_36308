@@ -1,0 +1,46 @@
+_repo: Songs-From-Alice-in-Wonderland-and-Through-the-Looking-Glass_36308
+_version: 0.1.0
+contributor:
+  composer:
+    agent_name: Broadwood, Lucy Etheldred
+    alias: Broadwood, L. E. (Lucy Etheldred)
+    birthdate: 1858
+    deathdate: 1929
+    gutenberg_agent_id: '39110'
+    url: http://www.gutenberg.org/2009/agents/39110
+  illustrator:
+    agent_name: Folkard, Charles
+    alias: Folkard, Charles James
+    birthdate: 1878
+    deathdate: 1963
+    gutenberg_agent_id: '38189'
+    url: http://www.gutenberg.org/2009/agents/38189
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Folkard
+covers:
+- cover_type: archival
+  image_path: 36308-h/images/coversm.jpg
+creator:
+  author:
+    agent_name: Carroll, Lewis
+    alias: Dodgson, Charles Lutwidge
+    birthdate: 1832
+    deathdate: 1898
+    gutenberg_agent_id: '7'
+    url: http://www.gutenberg.org/2009/agents/7
+    wikipedia: https://en.wikipedia.org/wiki/Lewis_Carroll
+description: ''
+gutenberg_issued: '2011-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36308'
+  lccn: '22026023'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s songs, English'
+- !lcsh 'Nursery rhymes, English'
+- !lcc 'ML'
+title: Songs From Alice in Wonderland and Through the Looking-Glass
+url: http://www.gutenberg.org/ebooks/36308
